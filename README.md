@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/d6fqvTt/Github-Header.png" alt="Github-Header" border="0">
 
 _Contact_: stephaniemagdic@gmail.com.  
-Turing School of Software and Design's Frontend Engineering program student
+![Turing School of Software and Design's Frontend Engineering program student](https://turing.edu/)
 
 #### Always learning, always excited to grow and to maximize opportunities and resources available and take advantage of life’s opportunities. 
 
