@@ -1,7 +1,5 @@
 <img src="https://i.ibb.co/d6fqvTt/Github-Header.png" alt="Github-Header" border="0">
 
-## Hello! I'm Stephanie. 
-
 _Contact_: stephaniemagdic@gmail.com.  
 Turing School of Software and Design's Frontend Engineering program student
 
