@@ -1,4 +1,4 @@
-![Banner Photo]()
+![Banner Photo](<img src="https://i.ibb.co/d6fqvTt/Github-Header.png" alt="Github-Header" border="0">)
 
 ## Hello! I'm Stephanie. 
 
