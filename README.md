@@ -1,4 +1,4 @@
-![Banner Photo](https://i.ibb.co/wL4MZG7/banner-photo.jpg)
+![Banner Photo]()
 
 ## Hello! I am Stephanie. 
 
@@ -12,5 +12,5 @@ While navigating through my professional experiences as a middle school teacher 
 
 In my free time, I love to enjoy Colorado’s outdoors, take on new house projects, travel back to Chicago to see my family <3, explore new technologies and dream up useful applications.
 
-[![linkdin](<img src="https://i.ibb.co/Cb8HPGC/linkedin.png" alt="linkedin" border="0" width="30" height="30">](https://www.linkedin.com/in/stephaniemagdic/)] [!https://i.ibb.co/Xz3c95B/104478-blogger-google-blog-icon.png](https://planbadventuress.blogspot.com/)
+[![linkdin](<img src="https://i.ibb.co/Cb8HPGC/linkedin.png" alt="linkedin" border="0" width="30" height="30"/>](https://www.linkedin.com/in/stephaniemagdic/) [!https://i.ibb.co/Xz3c95B/104478-blogger-google-blog-icon.png](https://planbadventuress.blogspot.com/)
 
