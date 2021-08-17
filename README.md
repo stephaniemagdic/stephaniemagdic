@@ -1,6 +1,6 @@
 ![Banner Photo]()
 
-## Hello! I am Stephanie. 
+## Hello! I'm Stephanie. 
 
 _Contact_: stephaniemagdic@gmail.com.  
 Turing School of Software and Design's Frontend Engineering program student
