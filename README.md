@@ -9,5 +9,6 @@ While navigating through my professional experiences as a middle school teacher 
 
 In my free time, I love to enjoy Colorado’s outdoors, take on new house projects, travel back to Chicago to see my family <3, explore new technologies and dream up useful applications.
 
-[<img src="https://i.ibb.co/Cb8HPGC/linkedin.png" alt="linkedin" border="0" width="30" height="30"/>](https://www.linkedin.com/in/stephaniemagdic/)) [!https://i.ibb.co/Xz3c95B/104478-blogger-google-blog-icon.png](https://planbadventuress.blogspot.com/)
+[<img src="https://i.ibb.co/Cb8HPGC/linkedin.png" alt="linkedin" border="0" width="30" height="30"/>](https://www.linkedin.com/in/stephaniemagdic/) 
+[<img src="https://i.ibb.co/Xz3c95B/104478-blogger-google-blog-icon.png" alt="104478-blogger-google-blog-icon" border="0">](https://planbadventuress.blogspot.com/)
 
