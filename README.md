@@ -1,9 +1,7 @@
 ## Hello! I am Stephanie. 
 
-_Contact_: stephaniemagdic@gmail.com
-
-_LinkedIn_: linkedin.com/in/stephaniemagdic
-
+_Contact_: stephaniemagdic@gmail.com.  
+_LinkedIn_: linkedin.com/in/stephaniemagdic.  
 Turing School of Software and Design's Frontend Engineering program student
 
 #### Always learning, always excited to grow and to maximize opportunities and resources available and take advantage of life’s opportunities. 
