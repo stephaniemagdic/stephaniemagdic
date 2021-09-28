@@ -9,7 +9,7 @@ While navigating through my professional experiences as a middle school teacher 
 
 In my free time, I love to enjoy Colorado’s outdoors, take on new house projects, travel back to Chicago to see my family 💚, explore new technologies and dream up applications.
 
-#### Currently building [Gone Phishin](https://github.com/justincanthony/gone_phishin)! Check it out!
+#### Currently building [Gone Phishin](https://stephaniemagdic.github.io/doth_translate/)! Check it out!
 
 [<img src="https://i.ibb.co/Cb8HPGC/linkedin.png" alt="linkedin" border="0" width="30" height="30"/>](https://www.linkedin.com/in/stephaniemagdic/) 
 [<img src="https://i.ibb.co/gDtpDc2/1783368-blog-blogger-blogspot-google-internet-icon.png" alt="1783368-blog-blogger-blogspot-google-internet-icon" border="0" width="30" height="30"/>]()
