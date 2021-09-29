@@ -3,8 +3,6 @@
 _Contact_: stephaniemagdic@gmail.com  
 [Turing School of Software and Design's Frontend Engineering program student](https://turing.edu/)
 
-#### Hi, I'm Stephanie! :wave::coffee:
-
 While navigating through my professional experiences as a middle school teacher and mental health professional, I was constantly intrigued by current software and creatively experimenting with software development, and so I joined Turing’s Frontend Program. Since then I have built numerous applications (from wireframing to deployment). These projects are hosted here on Github. Please take a look! 
 
 In my free time, I love to enjoy Colorado’s outdoors, take on new house projects, travel back to Chicago to see my family 💚, explore new technologies and dream up applications.
