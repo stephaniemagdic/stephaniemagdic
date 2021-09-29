@@ -5,9 +5,9 @@ While navigating through my professional experiences as a middle school teacher 
 In my free time, I love to enjoy Colorado’s outdoors, take on new house projects, travel back to Chicago to see my family 💚, explore new technologies and dream up applications.
 
 Some of my most recent favorites:
-- [Doth Translate](https://stephaniemagdic.github.io/doth_translate/)
-- [Movie Buffer](https://stephaniemagdic.github.io/rancid-tomatillos/)
-- [Memory Travels](https://stephaniemagdic.github.io/travel-tracker/)
+- [Doth Translate](https://stephaniemagdic.github.io/doth_translate/): Shakespearean Context clues apps for students grades 5-8
+- [Movie Buffer](https://stephaniemagdic.github.io/rancid-tomatillos/): Web application for recent movie browsing!
+- [Memory Travels](https://stephaniemagdic.github.io/travel-tracker/): Mobile application for and tracking travel data.
 
 #### Currently building [Doth Translate](https://stephaniemagdic.github.io/doth_translate/)! Check it out!
 
