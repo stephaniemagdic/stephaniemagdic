@@ -10,7 +10,7 @@ Some of my most recent favorites:
 - [Gone Phishin](https://stephaniemagdic.github.io/gone_phishin/): Mobile application that allows Phish fans to browse live show audio tracks - check out party mode 🌈
 - [Memory Travels](https://stephaniemagdic.github.io/travel-tracker/): Mobile application for and tracking travel data
 
-#### Currently refactoring and enhancing [Doth Translate](https://stephaniemagdic.github.io/doth_translate/)!
+#### Currently working on [Doth Translate](https://stephaniemagdic.github.io/doth_translate/)!
 
 [<img src="https://i.ibb.co/Cb8HPGC/linkedin.png" alt="linkedin" border="0" width="30" height="30"/>](https://www.linkedin.com/in/stephaniemagdic/) 
 [<img src="https://i.ibb.co/gDtpDc2/1783368-blog-blogger-blogspot-google-internet-icon.png" alt="1783368-blog-blogger-blogspot-google-internet-icon" border="0" width="30" height="30"/>]()
