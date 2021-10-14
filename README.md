@@ -6,8 +6,8 @@ In my free time, I love to enjoy Colorado’s outdoors, take on new house projec
 
 Some of my most recent favorites:
 - [Doth Translate](https://stephaniemagdic.github.io/doth_translate/): Shakespearean Context clues apps for students grades 5-8
-- [Movie Buffer](https://stephaniemagdic.github.io/rancid-tomatillos/): Web application for recently-released movie browsing
 - [Gone Phishin](https://stephaniemagdic.github.io/gone_phishin/): Mobile application that allows Phish fans to browse live show audio tracks - check out party mode 🌈
+- [Movie Buffer](https://stephaniemagdic.github.io/rancid-tomatillos/): Web application for recently-released movie browsing
 - [Memory Travels](https://stephaniemagdic.github.io/travel-tracker/): Mobile application for and tracking travel data
 
 #### Currently working on an [application](https://miro.com/app/board/o9J_ls9HiMY=/) that had been dreamt up as a mental health professional when I struggled to find the resources I needed to best serve my students. With some really amazing frontend and backend developers we are making this application come to life. 
