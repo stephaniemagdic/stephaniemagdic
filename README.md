@@ -16,5 +16,5 @@ Some of my most recent favorites:
 [<img src="https://i.ibb.co/gDtpDc2/1783368-blog-blogger-blogspot-google-internet-icon.png" alt="1783368-blog-blogger-blogspot-google-internet-icon" border="0" width="30" height="30"/>]()
 
 _Contact_: stephaniemagdic@gmail.com  
-[Turing School of Software and Design's Frontend Engineering Student](https://turing.edu/)
+[Turing School of Software and Design's Frontend Engineering](https://turing.edu/)
 
