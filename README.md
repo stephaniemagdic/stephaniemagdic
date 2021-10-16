@@ -10,7 +10,7 @@ Some of my most recent favorites:
 - [Movie Buffer](https://stephaniemagdic.github.io/rancid-tomatillos/): Web application for recently-released movie browsing
 - [Memory Travels](https://stephaniemagdic.github.io/travel-tracker/): Mobile application for and tracking travel data
 
-#### Currently working on an [application](https://miro.com/app/board/o9J_ls9HiMY=/) that had been dreamt up as a mental health professional when I struggled to find the resources I needed to best serve my students. With some really amazing frontend and backend developers we are making this application come to life. 
+#### Currently working on an [application](https://miro.com/app/board/o9J_ls9HiMY=/) that had been dreamt up as a mental health professional when I struggled to find the resources I needed to best serve my students. With some really amazing frontend and backend developers we are making this application come to life. (Technologies: PWA, typescript, and styled components)
 
 [<img src="https://i.ibb.co/Cb8HPGC/linkedin.png" alt="linkedin" border="0" width="30" height="30"/>](https://www.linkedin.com/in/stephaniemagdic/) 
 [<img src="https://i.ibb.co/gDtpDc2/1783368-blog-blogger-blogspot-google-internet-icon.png" alt="1783368-blog-blogger-blogspot-google-internet-icon" border="0" width="30" height="30"/>]()
