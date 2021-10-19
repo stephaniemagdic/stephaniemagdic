@@ -4,7 +4,7 @@ While navigating through my professional experiences as a middle school teacher 
 
 In my free time, I love to enjoy Colorado’s outdoors, take on new house projects, travel back to Chicago to see my family 💚, explore new technologies and dream up applications.
 
-#### Currently working on an [application](https://miro.com/app/board/o9J_ls9HiMY=/) that had been dreamt up as a mental health professional when I struggled to find the resources I needed to best serve my students. With some really amazing frontend and backend developers we are making this application come to life. (Technologies: PWA, typescript, and styled components)
+#### Currently working on an [application](https://miro.com/app/board/o9J_ls9HiMY=/) that had been dreamt up as a mental health professional when I struggled to find the resources I needed to best serve my students. With some really amazing frontend and backend developers we are making this application come to life ([Shared Organization](https://github.com/mental-health-org)). (Technologies: PWA, typescript, and styled components)
 
 Some of my most recent favorites:
 - [Doth Translate](https://stephaniemagdic.github.io/doth_translate/): Shakespearean Context clues apps for students grades 5-8
