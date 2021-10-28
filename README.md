@@ -4,13 +4,12 @@ While navigating through my professional experiences as a middle school teacher 
 
 In my free time, I love to enjoy Colorado’s outdoors, take on new house projects, travel back to Chicago to see my family 💚, explore new technologies and dream up applications.
 
-#### Currently working on an [application](https://miro.com/app/board/o9J_ls9HiMY=/) that had been dreamt up as a mental health professional when I struggled to find the resources I needed to best serve my students. With some really amazing frontend and backend developers we are making this application come to life ([Shared Organization](https://github.com/mental-health-org)). (Technologies: React with context api, PWA with push notifications, typescript, styled components, and material ui!)
+#### Currently deployed but still iterating on an [application](https://mental-health-fe.herokuapp.com/#/) (HeLP Network: Helping and Legal Professionals Network) that had been dreamt up as a mental health professional when I struggled to find the resources I needed to best serve my students. With some really amazing frontend and backend developers we are making this application come to life. (Technologies: React with context api, PWA with push notifications, typescript, styled components, and material ui!) -- [Repo here!](https://github.com/mental-health-org/mental-health-fe)
 
 Some of my most recent favorites:
 - [Doth Translate](https://stephaniemagdic.github.io/doth_translate/): Shakespearean Context clues apps for students grades 5-8
 - [Gone Phishin](https://stephaniemagdic.github.io/gone_phishin/): Mobile application that allows Phish fans to browse live show audio tracks - check out party mode 🌈
 - [Movie Buffer](https://stephaniemagdic.github.io/rancid-tomatillos/): Web application for recently-released movie browsing
-- [Memory Travels](https://stephaniemagdic.github.io/travel-tracker/): All Vanilla Javascript web application for tracking travel data
 
 [<img src="https://i.ibb.co/Cb8HPGC/linkedin.png" alt="linkedin" border="0" width="30" height="30"/>](https://www.linkedin.com/in/stephaniemagdic/) 
 [<img src="https://i.ibb.co/gDtpDc2/1783368-blog-blogger-blogspot-google-internet-icon.png" alt="1783368-blog-blogger-blogspot-google-internet-icon" border="0" width="30" height="30"/>]()
