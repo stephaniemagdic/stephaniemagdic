@@ -7,6 +7,7 @@ In my free time, I love to enjoy Colorado’s outdoors, take on new house projec
 #### Currently deployed but still iterating on an [application](https://mental-health-fe.herokuapp.com/#/) (HeLP Network: Helping and Legal Professionals Network) that had been dreamt up as a mental health professional when I struggled to find the resources I needed to best serve my students. With some really amazing frontend and backend developers we are making this application come to life. (Technologies: React with context api, PWA with push notifications, typescript, styled components, and material ui!) -- [Repo here!](https://github.com/mental-health-org/mental-health-fe)
 
 Some of my most recent favorites:
+- [HeLP Network](https://mental-health-fe.herokuapp.com/#/)
 - [Doth Translate](https://stephaniemagdic.github.io/doth_translate/): Shakespearean Context clues apps for students grades 5-8
 - [Gone Phishin](https://stephaniemagdic.github.io/gone_phishin/): Mobile application that allows Phish fans to browse live show audio tracks - check out party mode 🌈
 - [Movie Buffer](https://stephaniemagdic.github.io/rancid-tomatillos/): Web application for recently-released movie browsing
