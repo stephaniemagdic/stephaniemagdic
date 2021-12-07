@@ -8,8 +8,11 @@ In my free time, I love to enjoy Colorado’s outdoors, take on new house projec
 
 Some of my most recent favorites:
 - [HeLP Network](https://mental-health-fe.herokuapp.com/#/): Professional Social Media application that allows helping professionals to consult on legal an ethical issues
+  - [Code Repository](https://github.com/mental-health-org/mental-health-fe) 
 - [Doth Translate](https://stephaniemagdic.github.io/doth_translate/): Shakespearean Context clues apps for students grades 5-8
+  - [Code Repository](https://github.com/stephaniemagdic/doth_translate)  
 - [Gone Phishin](https://stephaniemagdic.github.io/gone_phishin/): Mobile application that allows Phish fans to browse live show audio tracks - check out party mode 🌈
+  - [Code Repository](https://github.com/stephaniemagdic/gone_phishin)   
 - [Movie Buffer](https://stephaniemagdic.github.io/rancid-tomatillos/): Web application for recently-released movie browsing
 
 [<img src="https://i.ibb.co/Cb8HPGC/linkedin.png" alt="linkedin" border="0" width="30" height="30"/>](https://www.linkedin.com/in/stephaniemagdic/) 
