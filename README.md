@@ -4,7 +4,7 @@ While navigating through my professional experiences as a middle school teacher 
 
 In my free time, I love to enjoy Colorado’s outdoors, take on new house projects, travel back to Chicago to see my family 💚, explore new technologies and dream up applications.
 
-#### Currently deployed but still iterating on an [application](https://mental-health-fe.herokuapp.com/#/) (HeLP Network: Helping and Legal Professionals Network) that had been dreamt up as a mental health professional when I struggled to find the resources I needed to best serve my students. With some really amazing frontend and backend developers we are making this application come to life. (Technologies: React with context api, PWA with push notifications, typescript, styled components, and material ui!) -- [Repo here!](https://github.com/mental-health-org/mental-health-fe)
+Currently working on: [HeLP Network: Helping and Legal Professionals Network](https://mental-health-fe.herokuapp.com/#/) had been dreamt up as a mental health professional when I struggled to find the resources I needed to best serve my students. With some really amazing frontend and backend developers we are making this application come to life. (Technologies: React with context api, TypeScript, Material-UI, and [LinkedIn's Oauth](https://docs.microsoft.com/en-us/linkedin/shared/authentication/authentication)![Visit the code repository here!](https://github.com/mental-health-org/mental-health-fe)
 
 Some of my most recent favorites:
 - [HeLP Network](https://mental-health-fe.herokuapp.com/#/): Professional Social Media application that allows helping professionals to consult on legal an ethical issues
