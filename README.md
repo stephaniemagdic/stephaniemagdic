@@ -1,4 +1,4 @@
-<img src="https://imgur.com/x43fPbb" alt="Github-Header" border="0">
+<img href="//imgur.com/a/QgjMxor" alt="Github-Header" border="0">
 
 While navigating through my professional experiences as a middle school teacher and mental health professional, I was constantly intrigued by current software and creatively experimenting with software development to solve problems in the field, and so I joined Turing School of Software and Design's Frontend Program. Since then I have built numerous applications (from wireframing to deployment) that are hosted here on Github. 
 
